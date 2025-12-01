@@ -3649,11 +3649,6 @@ hash = "8152444b0f21c16e24a78c196a7375c60287e218a09b88333fbdce8d2ecce9cb"
 metafile = true
 
 [[files]]
-file = "mods/time-in-a-bottle-universal.pw.toml"
-hash = "84d2acff6907cd3eb265f929dcdda843caf724a262ac165aefff81c777d83616"
-metafile = true
-
-[[files]]
 file = "mods/titanium.pw.toml"
 hash = "b83b733a3cc6d0e6b08d4bcb27954914ef0f820d71c7ac94d33171cfb2f717ae"
 metafile = true
@@ -3819,6 +3814,18 @@ hash = "75ab86620198850b00054d0025a6496fdd7b002ae05e9a57dd44d8c894a8a0c0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Create Style for Refined Storage.zip"
+hash = "a680b86ac4bbb1fec4128ec6912fc4a2fb400459f3125f4518cb286e4d4d82eb"
+
+[[files]]
+file = "resourcepacks/CreateSophisticatedBackpacks.zip"
+hash = "546f5ab2d4d561e28f3366d84626ab392a750de151eec51b5a524fe48f396ec9"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.2.zip"
+hash = "72599c99251b2dd8543795c0d566da5c0e39f79fd5d002e6cba0e7581e77acfa"
+
+[[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
@@ -3827,18 +3834,12 @@ file = "resourcepacks/SE Vanilla Consistency 1.20.1.zip"
 hash = "767ad33f82139a8be0c246262d8a70074cddc2e09f74fb39e9c9dd3d509eb46f"
 
 [[files]]
+file = "resourcepacks/Xray_Ultimate_1.21_v5.2.2.zip"
+hash = "ba22ae2ba81bdcc4f9c221536805e147d7b72922310e29d40fe767d18dd77afe"
+
+[[files]]
 file = "resourcepacks/create-easy-villagers-textures.pw.toml"
 hash = "3393c183c780e66a3ae57a60e7e7ecad67528c1e5133d59c533f9e8ee175b8a3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "9894340781fca02078877ff3ee942b1a66e5387aedab8a0d99ab69f4904cf0c5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/create-style-for-refined-storage.pw.toml"
-hash = "a85f6d7d380f8508f432fe1c355ae3c81bdd54372b1b067361b8fb1cadab4a73"
 metafile = true
 
 [[files]]
@@ -3857,11 +3858,6 @@ hash = "bb7d05bb7097173a4193e7a82b554d5748a849db9fd65c8515d7564f2988e656"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "15f5872ee75d21be2e6cbd25669e423a2a764312562e5cdfdc4e34af160dc6d3"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-waystones-texture.pw.toml"
 hash = "dd91c22e378715d83782d03668ad65b5833c7c85ed634f2e664412cb50e4366b"
 metafile = true
@@ -3869,11 +3865,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "8b6513ec92d66dd68550908ac173700f2ed22fb88dcad71709a11b437db3793b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xray-ultimate-1-11-compatible.pw.toml"
-hash = "32700fa12833ed13298eae1e530a5e3831e235918640de20b597b4d17ed86743"
 metafile = true
 
 [[files]]
