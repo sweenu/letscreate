@@ -1,0 +1,13 @@
+name = "Xray Ultimate"
+filename = "Xray_Ultimate_1.21_v5.2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d6fa4ae1e69cd83fbd00299a312504b47873edd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6078638
+project-id = 226375
