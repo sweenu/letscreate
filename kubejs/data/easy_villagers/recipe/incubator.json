@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "A": { "tag": "c:glass_panes" },
+    "B": { "item": "minecraft:netherite_scrap" },
+    "C": { "tag": "minecraft:wool" },
+    "D": { "item": "easy_villagers:villager" }
+  },
+  "pattern": [
+    "AAAA",
+    "A  A",
+    "ADDA",
+    "BCCB"
+  ],
+  "result": {
+    "count": 2,
+    "id": "easy_villagers:incubator"
+  },
+  "show_notification": false
+}

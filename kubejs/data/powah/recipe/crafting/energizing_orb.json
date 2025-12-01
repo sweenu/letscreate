@@ -1,0 +1,52 @@
+
+{
+  "type": "create:mixing",
+  "ingredients": [
+   {
+    "item": "minecraft:glass"
+    },
+{
+    "item": "minecraft:glass"
+    },
+{
+    "item": "minecraft:glass"
+    },
+{
+    "item": "minecraft:glass"
+    },
+   {
+      "item": "powah:capacitor_basic"
+    },{
+      "item": "powah:capacitor_basic"
+    },{
+      "item": "powah:capacitor_basic"
+    },
+     {
+      "item": "powah:dielectric_casing"
+    },
+    {
+      "item": "create:andesite_alloy"
+    },{
+      "item": "create:andesite_alloy"
+    },{
+      "item": "create:andesite_alloy"
+    },
+    {
+      "item": "powah:dielectric_rod_horizontal"
+    },
+{
+      "item": "powah:dielectric_rod_horizontal"
+    },
+{
+      "item": "powah:dielectric_rod_horizontal"
+    },
+{
+      "item": "powah:dielectric_rod_horizontal"
+    }
+  ],
+  "results": [
+    {
+      "id": "powah:energizing_orb"
+    }
+  ]
+}

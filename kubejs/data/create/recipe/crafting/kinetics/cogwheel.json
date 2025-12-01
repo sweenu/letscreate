@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SCS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:wooden_buttons"
+    },
+    "C": {
+      "item": "create:shaft"
+    }
+  },
+  "result": {
+    "id": "create:cogwheel",
+    "count": 8
+  }
+}

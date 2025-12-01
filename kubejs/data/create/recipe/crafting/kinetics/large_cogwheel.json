@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "DCD",
+    "SDS"
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:wooden_buttons"
+    },
+    "C": {
+      "item": "create:shaft"
+    },
+    "D": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "id": "create:large_cogwheel",
+    "count": 2
+  }
+}

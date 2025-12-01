@@ -1,0 +1,13 @@
+name = "Time in a bottle inventory slot"
+filename = "timeinabottleinventoryslot-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1c2f6a565a4a0a4099afe8ac20956f372abc43d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6906731
+project-id = 1330157

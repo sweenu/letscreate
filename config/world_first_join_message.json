@@ -1,0 +1,32 @@
+{
+  "enabled": {
+    "value": true,
+    "category": "General Settings",
+    "description": "Enable or disable the welcome message"
+  },
+  "welcomeMessage": {
+    "value": "THANKS TO OUR SPONSORS, ZAP-HOSTING! Support Reggarf And Save BIG - USE CODE Reggarf-1047 FOR 20% OFF Your ORDER!",
+    "category": "General Settings",
+    "description": "The message to be displayed when a player joins the game for the first time"
+  },
+  "welcomeMessageColor": {
+    "value": 16777215,
+    "category": "Chat",
+    "description": "The RGB color code for the welcome message."
+  },
+  "clickableUrl": {
+    "value": "https://zap-hosting.com/reggarf",
+    "category": "General Settings",
+    "description": "The URL to be opened when the player clicks the link"
+  },
+  "clickhere": {
+    "value": "[Click here]",
+    "category": "General Settings",
+    "description": "clickable text"
+  },
+  "clickableTextColor": {
+    "value": 65450,
+    "category": "Chat",
+    "description": "The RGB color code for the clickable text \u0027[Click here]"
+  }
+}

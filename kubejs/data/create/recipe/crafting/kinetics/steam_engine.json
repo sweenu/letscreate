@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "P": {
+      "tag": "c:plates/gold"
+    },
+    "B": {
+      "item": "create:cogwheel"
+    },
+    "G": {
+      "item": "cataclysm:ancient_metal_nugget"
+    }
+  },
+  "pattern": [
+    " P ",
+    "BAB",
+    "GCG"
+  ],
+  "result": {
+    "id": "create:steam_engine"
+  },
+  "show_notification": true
+}

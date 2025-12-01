@@ -1,0 +1,4 @@
+#enables targeting depots with cardboard planes
+enablePlaneLocationLogistics = true
+#enables targeting players with cardboard planes
+enablePlanePlayerLogistics = true

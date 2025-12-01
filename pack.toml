@@ -1,0 +1,13 @@
+name = "Create Lets Create Custom"
+author = "Me"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f5b338eb5ba74d6bae8c9aff3df7333792b968ee4527bb9b4ace5a8e7def0e56"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.193"

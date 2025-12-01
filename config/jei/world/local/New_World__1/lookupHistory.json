@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"ftbquests:missing_item","components":{"ftbquests:missing_item":"ftbfiltersystem:smart_filter"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"apothic_enchanting:sightshelf"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

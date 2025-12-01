@@ -1,0 +1,5 @@
+#Mon Nov 17 21:11:27 IST 2025
+BLOOM=false
+BLOOM_STRENGTH=0.10
+WAVING_SPEED=0.30
+shadowDistance=96.0

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "CBC",
+    " A "
+  ],
+  "key": {
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "B": {
+      "item": "create:andesite_casing"
+    },
+    "A": {
+      "item": "create:large_cogwheel"
+    }
+  },
+  "result": {
+    "id": "create:gearbox"
+  }
+}

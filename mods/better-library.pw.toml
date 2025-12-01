@@ -1,0 +1,13 @@
+name = "Better Library"
+filename = "better_lib-1.0.107.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d40acf2cf971fef3a82c336603e42e45d08d793"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7243791
+project-id = 1150683

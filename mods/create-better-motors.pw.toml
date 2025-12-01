@@ -1,0 +1,13 @@
+name = "Create: Better Motors (Crafts & Additions Addon)"
+filename = "create_better_motors-3.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2743721363496733cc844ef7a2a3082c8b93d4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7250581
+project-id = 1162812

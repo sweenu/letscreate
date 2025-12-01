@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "B": {
+      "item": "cataclysm:witherite_ingot"
+    }
+  },
+  "pattern": [
+    "A A",
+    "ABA"
+  ],
+  "result": {
+    "id": "create:basin",
+    "count": 4
+  }
+}

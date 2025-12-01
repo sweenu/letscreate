@@ -1,0 +1,13 @@
+name = "ZapHosting Server Integration Menu"
+filename = "zap_hosting_server_integration_menu-1.101.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea75ba902ba613466b5f79dfbb36a98d0982bb75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6383528
+project-id = 1234147

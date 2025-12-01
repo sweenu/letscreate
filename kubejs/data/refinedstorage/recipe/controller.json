@@ -1,0 +1,40 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "A": {
+      "item":"toms_storage:trim"
+    },
+    "B": {
+      "item":"refinedstorage:quartz_enriched_iron"
+    },
+    "C": {
+      "item":"refinedstorage:machine_casing"
+    },
+    "D": {
+      "item":"cataclysm:infernal_forge"
+    },
+    "G": {
+      "item":"toms_storage:inventory_connector"
+    },
+    "E": {
+      "item":"toms_storage:inventory_interface"
+    },
+    "H": {
+      "tag":"c:glass"
+    }
+  },
+  "pattern": [
+    "AAAAAAA",
+    "HBCCCBH",
+    "HGCDCGH",
+    "HECCCEH",
+    "AAAAAAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "refinedstorage:controller"
+  },
+  "show_notification": false
+}

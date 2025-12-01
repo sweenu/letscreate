@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": false,
+  "category": "misc",
+  "key": {
+    "A": { "tag": "c:glass_panes" },
+    "B": { "item": "minecraft:netherite_scrap" },
+    "C": { "item": "minecraft:glowstone" },
+    "D": { "item": "minecraft:rotten_flesh" }
+  },
+  "pattern": [
+    "AAAA",
+    "A  A",
+    "ADDA",
+    "BCCB"
+  ],
+  "result": {
+    "count": 2,
+    "id": "easy_villagers:converter"
+  },
+  "show_notification": false
+}

@@ -1,0 +1,13 @@
+name = "Create Waystones Texture + GUI"
+filename = "CreateWaystones v1.0.2.b.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26cac9dde1e80563552237bb89364e5fad2b978c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6198781
+project-id = 1085902

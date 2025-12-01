@@ -1,0 +1,13 @@
+name = "World First Join Message"
+filename = "world_first_join_message-1.11.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ea0efb081a4e969d28fed2551c10ef11f4ca3b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7250509
+project-id = 1150146

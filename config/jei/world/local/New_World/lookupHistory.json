@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:tuff"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_colored_chain_conveyor:red_chain_conveyor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

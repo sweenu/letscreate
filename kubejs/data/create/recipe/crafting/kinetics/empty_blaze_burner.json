@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:netherrack"
+    },
+    "I": {
+      "tag": "c:plates/iron"
+    }, 
+    "D": {
+      "item": "cataclysm:lacrima"
+    }
+  },
+  "pattern": [
+    "DI ",
+    "IAI",
+    " ID"
+  ],
+  "result": {
+    "id": "create:empty_blaze_burner"
+  }
+}
